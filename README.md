@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @heyiamsudhir
-- 👀 I’m interested in machine learning, web development and data strucrure
+- 👀 I’m interested in machine learning, web development and data structures
 - 🌱 I’m currently learning advanced machine learning techniques and web development frameworks
 - 💞️ I’m looking to collaborate on machine learning projects, web development applications, and data structure algorithms
 - 📫 How to reach me: Email-sudhirjaiswal093@gmail.com or by my instagram id- https://www.instagram.com/heyiamsudhir/
